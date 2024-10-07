@@ -2,7 +2,9 @@
 
 I'm Max, a software engineer passionate about back-end development, machine learning and reverse engineering.
 
-Currently working my way into the field of Cybersecurity. If you have any advice about that, lmk!
+Currently working as a Software Engnineer at Pipedrive.
+
+Interested the field of Cybersecurity. If you have any advice about that, lmk!
 
 Also, check out my personal [website](HTTP://azar.ee).
 
