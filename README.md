@@ -2,7 +2,7 @@
 
 I'm Max, a software engineer passionate about back-end development, machine learning and reverse engineering.
 
-Currently working as a Software Engnineer at Pipedrive.
+Currently working as a Junior Software Engineer at Pipedrive.
 
 Interested the field of Cybersecurity. If you have any advice about that, lmk!
 
